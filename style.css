@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(236, 248, 69);
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-family: algerian;
+    color: black;
+    background-color: rgb(19, 212, 106);
+    scrollbar-arrow-color: rgb(33, 10, 243);
+    scrollbar-width: 200px;
+    border-style: double;
+    box-shadow: 10px 10px 5px rgb(226, 186, 6);
+    border-radius: 10px;
+    max-width: 700px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+
+
+hr {
+    border: 3px solid black;
+    border-radius: 2px;
+}
+
+.fa {
+    padding: 30px;
+    font-size: 300px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: white;
+}
+
+button {
+    color: black;
+    background-color: rgb(116, 250, 149);
+    scrollbar-arrow-color: black;
+
+    border-color: black;
+    scrollbar-width: 200px;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 5px;
+    max-width: 400px;
+    font-family:fantasy;
+    font-size: 29px;
+
+
+}
+
+content {
+    font-family: fantasy;
+    font-size: 22px;
+    width: 500px;
+
+
+}
+
+div {
+    font-size: 33px;
+}
